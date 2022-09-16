@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget{
       body: Column(
         children: [
           Center(
-            child: Text("Ewmateam"),
+            child: Text("Ewmateam2"),
           )
         ],
       ),

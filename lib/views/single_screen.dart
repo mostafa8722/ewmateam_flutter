@@ -50,7 +50,7 @@ class SingleScreen extends StatelessWidget {
 
 
 
-              print("dddddddddddddddd");
+
               print(castList);
 
 
